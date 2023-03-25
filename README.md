@@ -1,4 +1,4 @@
-## Welcome To The Bitvincy
+## Welcome To The BitVincy
 ![Welcome To The Bitvincy](https://github.com/bitvincy-project/bitvincy-project/blob/main/banner.jpg?raw=true)
 
 ![Profile views](https://gpvc.arturio.dev/bitvincy-project)  
