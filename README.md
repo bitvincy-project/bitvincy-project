@@ -14,6 +14,3 @@ Bitvincy is a peer-to-peer global payment network and cryptocurrency that offers
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bitvincy-project)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=bitvincy-project&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=bitvincy-project)  
-
